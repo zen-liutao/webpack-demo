@@ -14,7 +14,7 @@
   "devDependencies": {
     "csv-loader": "^3.0.2",
     "webpack": "^4.39.3",
-    "webpack-cli": "^3.3.7",
+    "webpack-cli": "^3.3.12",
     "xml-loader": "^1.2.1"
   },
   "dependencies": {
